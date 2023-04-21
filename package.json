@@ -1,0 +1,23 @@
+{
+  "name": "redux-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikalp-ap/Redux-Toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikalp-ap/Redux-Toolkit/issues"
+  },
+  "homepage": "https://github.com/vikalp-ap/Redux-Toolkit#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5"
+  }
+}
